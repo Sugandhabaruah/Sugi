@@ -10,7 +10,7 @@ to check for docker images: docker images
 
 see all containers : docker ps -a
 
-![image](https://user-images.githubusercontent.com/97328875/163903456-602d022a-c3c7-48ea-81c5-8d100dba7482.png)
+![image](https://user-images.githubusercontent.com/97328875/163918127-c9a9b026-9b9a-4b26-8455-ae464a4ec206.png)
 
 Most recently launched container : docker ps -l
 
