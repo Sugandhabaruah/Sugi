@@ -20,6 +20,10 @@ how to restart a docker container: ex: docker restart my-apache
 
 ![image](https://user-images.githubusercontent.com/97328875/163905078-da16509c-ef53-45e1-970e-6e81f833a16f.png)
 
+how to rename a container: docker container rename CONTAINER NEW_NAME: ex docker container rename nginx nginx_new
+
+![image](https://user-images.githubusercontent.com/97328875/163917976-b0af01a2-5f06-451e-b541-c33b7e3713a5.png)
+
 how to remove a container: docker rm container-name
 
 ![image](https://user-images.githubusercontent.com/97328875/163915750-f9b54be3-5070-4725-82ce-af7f38620031.png)
