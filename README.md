@@ -12,6 +12,10 @@ see all containers : docker ps -a
 
 ![image](https://user-images.githubusercontent.com/97328875/163903456-602d022a-c3c7-48ea-81c5-8d100dba7482.png)
 
+Most recently used container : docker ps -l
+
+![image](https://user-images.githubusercontent.com/97328875/163916628-86f85965-f8ac-49e5-818b-893460050687.png)
+
 how to restart a docker container: ex: docker restart my-apache
 
 ![image](https://user-images.githubusercontent.com/97328875/163905078-da16509c-ef53-45e1-970e-6e81f833a16f.png)
