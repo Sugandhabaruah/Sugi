@@ -12,7 +12,7 @@ see all containers : docker ps -a
 
 ![image](https://user-images.githubusercontent.com/97328875/163903456-602d022a-c3c7-48ea-81c5-8d100dba7482.png)
 
-Most recently used container : docker ps -l
+Most recently launched container : docker ps -l
 
 ![image](https://user-images.githubusercontent.com/97328875/163916628-86f85965-f8ac-49e5-818b-893460050687.png)
 
