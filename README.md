@@ -8,3 +8,8 @@ to check for docker images: docker images
 
 ![image](https://user-images.githubusercontent.com/97328875/163902755-1b7487ff-4238-48be-a070-9ad615b6a8ca.png)
 
+see all containers
+
+![image](https://user-images.githubusercontent.com/97328875/163903456-602d022a-c3c7-48ea-81c5-8d100dba7482.png)
+
+
